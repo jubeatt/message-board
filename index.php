@@ -183,9 +183,12 @@
   </main>
 
   <script>
-    document.querySelector('.button-edit').addEventListener('click' ,() => {
-      document.querySelector('.nickname-form').classList.toggle('hide');
-    })
+    const editButton = document.querySelector('.button-edit')
+    if (editButton) {
+      editButton.addEventListener('click' ,() => {
+        document.querySelector('.nickname-form').classList.toggle('hide');
+      })
+    }
   </script>
 </body>
 </html>
