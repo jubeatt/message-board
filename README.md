@@ -1,6 +1,6 @@
 # 留言板
 
-連結：http://peanu.tw/message-board/index.php
+連結：https://message-board.peanu.tw/
 
 ## 這是什麼？
 
