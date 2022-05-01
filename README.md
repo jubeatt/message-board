@@ -2,6 +2,9 @@
 
 連結：https://message-board.peanu.tw/
 
+- 測試帳號：peanu
+- 測試密碼：12345
+
 ## 這是什麼？
 
 一個用 PHP 做的簡易留言板。主要的功能有：
